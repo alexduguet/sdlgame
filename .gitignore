@@ -1,0 +1,16 @@
+/.DS_Store
+/.vscode
+/Lua
+/SDL2.dll
+/SDL2_image.dll
+/libpng16-16.dll
+/lua54.dll
+/lua54.lib
+/sdlgame
+/sdlgame.dSYM
+/sdlgame.exe
+/sdlgame.ilk
+/sdlgame.obj
+/sdlgame.pdb
+/vc140.pdb
+/zlib1.dll
